@@ -1,3 +1,3 @@
-main page
+<title>main page<title>
 
 # Welcome
