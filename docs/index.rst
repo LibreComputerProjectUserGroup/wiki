@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Home
 ====================
 
@@ -65,4 +64,3 @@ ALL-H3-CC (Tritium)
 
 - `Kickstarter detail <http://bit.ly/libre-tritium>`__
 - `Tech forum <http://bit.ly/libre-tritium-loverpi-forum>`__
->>>>>>> 6f1edaeab7c04d0cb4545e71b45cda23d1c41439
