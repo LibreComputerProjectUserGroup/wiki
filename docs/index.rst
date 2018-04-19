@@ -19,6 +19,8 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 Quick Links
 ===========
 
+- `Facebook Page <https://www.facebook.com/groups/356363581444452/>`__
+
 - `Official website <https://libre.computer/>`__
 - `Purchase <https://libre.computer/purchase/>`__
 - `Images <http://bit.ly/libre-images>`__
