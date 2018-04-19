@@ -1,11 +1,14 @@
 .. moduleauthor:: JC Staudt <jc@staudt.io>
 
-PURPOSE
+Libre Computer Project User Group Wiki
+======================================
+
+Purpose
 =======
 
 This group serves as a hub of information and support for the Libre Computer Project line of Single Board Computers (SBC).
 
-OVERVIEW
+Products
 ========
 
 As of 10 April 2018, the existing line of SBCs are as follows:
@@ -14,8 +17,8 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 - AML-S905X-CC (Le Potato)
 - ALL-H3-CC (Tritium)
 
-RESOURCES
-=========
+Quick Links
+===========
 
 - `Official website <https://libre.computer/>`__
 - `Purchase <https://libre.computer/purchase/>`__
@@ -28,7 +31,7 @@ RESOURCES
 - `IRC Channel <https://webchat.freenode.net/?channels=librecomputer>`__
 - `Twitter <https://twitter.com/librecomputer/>`__
 
-HARDWARE
+Hardware
 ========
 
 ROC-RK3328-CC (Renegade)
