@@ -1,4 +1,4 @@
-<title>main page<title>
+<title>main page</title>
 
 # Welcome
 ## Intro
