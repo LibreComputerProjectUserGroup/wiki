@@ -1,7 +1,7 @@
 .. moduleauthor:: JC Staudt <jc@staudt.io>
 
-Home
-====
+Welcome
+=======
 
 Welcome to the Libre Computer Project User Group Wiki!
 This page in intended to serve as a hub of information and support for the Libre Computer Project line of Single Board Computers (SBC).
