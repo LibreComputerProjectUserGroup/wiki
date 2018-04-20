@@ -1,6 +1,6 @@
 .. moduleauthor:: JC Staudt <jc@staudt.io>
 
-![<lcpugw3>](<../images/lcpugw3.png>)
+![lcpugw3](../images/lcpugw3.png)
 
 Welcome
 =======
