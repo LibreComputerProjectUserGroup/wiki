@@ -1,5 +1,10 @@
 .. moduleauthor:: JC Staudt <jc@staudt.io>
 
+site_name: MkLorum
+pages:
+    - Home: index.md
+    - About: about.md
+
 ![LCPUG Logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png "LCPUG Wiki")
 
 
