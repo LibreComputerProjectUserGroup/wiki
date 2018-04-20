@@ -1,3 +1,5 @@
+![<lcpugw3>](<./images/lcpugw3.png>)
+
 Welcome
 =======
 
