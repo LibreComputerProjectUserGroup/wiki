@@ -1,6 +1,7 @@
 .. moduleauthor:: JC Staudt <jc@staudt.io>
 
-![lcpugw3](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)
+![aLCPUG Logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png "LCPUG Wiki")
+
 
 Welcome
 =======
