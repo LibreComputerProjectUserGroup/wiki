@@ -2,6 +2,7 @@
 
 
 .. figure:: https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png
+  :align: center
 
 
 
