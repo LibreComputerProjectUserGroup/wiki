@@ -20,7 +20,7 @@ LCPUG Documents
 .. toctree::
    :maxdepth: 1
 
-   sdcard.rst
+   sdcard
 
 
 Products
