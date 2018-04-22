@@ -1,4 +1,4 @@
-![<lcpugw3>](<./images/lcpugw3.png>)
+![lcpugw logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)
 
 Welcome
 =======
