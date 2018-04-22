@@ -17,7 +17,10 @@ This page is community-driven; the wiki contributors are not the official or fin
 
 LCPUG Documents
 --------
-- `SD Cards <sdcard.rst>`__
+.. toctree::
+   :maxdepth: 1
+
+   sdcard.rst
 
 
 Products
