@@ -17,55 +17,45 @@ This page is community-driven; the wiki contributors are not the official or fin
 
 Technical Documents
 -------------------
-- `SD Cards <sdcard.rst>`__
+* `SD Cards <sdcard.rst>`_
 
 How-To
 ------
-- `UART Setup and Communication <./howto/uart.rst>`__
+* `UART Setup and Communication <./howto/uart.rst>`__
+
+Quick Links
+===========
+
+* `Facebook Page <https://www.facebook.com/groups/356363581444452/>`__
+
+* `Official website <https://libre.computer/>`__
+* `Purchase <https://libre.computer/purchase/>`__
+* `Images <http://bit.ly/libre-images>`__
+* `Wikipedia <https://en.wikipedia.org/wiki/Libre_Computer_Project>`__
+* `Community Q/A <http://bit.ly/stackoverflow-librecomputer>`__
+
+* `LoveRPi Wiki <http://bit.ly/libre-loverpi-wiki>`__
+* `GitHub Repo <https://github.com/libre-computer-project>`__
+* `IRC Channel <https://webchat.freenode.net/?channels=librecomputer>`__
+* `Twitter <https://twitter.com/librecomputer/>`__
 
 Products
 ========
 
 As of 10 April 2018, the existing line of SBCs are as follows:
 
-- ROC-RK3328-CC (Renegade)
-- AML-S905X-CC (Le Potato)
-- ALL-H3-CC (Tritium)
+* **ROC-RK3328-CC (Renegade)**
 
-Quick Links
-===========
+  * `Indiegogo detail <http://bit.ly/libre-renegade>`__
+  * `Tech forum <http://bit.ly/libre-renegade-loverpi-forum>`__
+  
+* **AML-S905X-CC (Le Potato)**
 
-- `Facebook Page <https://www.facebook.com/groups/356363581444452/>`__
+  * `Kickstarter detail <http://bit.ly/libre-lepotato>`__
+  * `Tech forum <http://bit.ly/libre-lepotato-loverpi-forum>`__
+  * `Schematics <https://drive.google.com/file/d/0B1Rq7NcD_39QYnltdGtWWEFvS0U/view>`__
+  
+* **ALL-H3-CC (Tritium)**
 
-- `Official website <https://libre.computer/>`__
-- `Purchase <https://libre.computer/purchase/>`__
-- `Images <http://bit.ly/libre-images>`__
-- `Wikipedia <https://en.wikipedia.org/wiki/Libre_Computer_Project>`__
-- `Community Q/A <http://bit.ly/stackoverflow-librecomputer>`__
-
-- `LoveRPi Wiki <http://bit.ly/libre-loverpi-wiki>`__
-- `GitHub Repo <https://github.com/libre-computer-project>`__
-- `IRC Channel <https://webchat.freenode.net/?channels=librecomputer>`__
-- `Twitter <https://twitter.com/librecomputer/>`__
-
-Hardware
-========
-
-ROC-RK3328-CC (Renegade)
-------------------------
-
-- `Indiegogo detail <http://bit.ly/libre-renegade>`__
-- `Tech forum <http://bit.ly/libre-renegade-loverpi-forum>`__
-
-AML-S905X-CC (Le Potato)
-------------------------
-
-- `Kickstarter detail <http://bit.ly/libre-lepotato>`__
-- `Tech forum <http://bit.ly/libre-lepotato-loverpi-forum>`__
-- `Schematics <https://drive.google.com/file/d/0B1Rq7NcD_39QYnltdGtWWEFvS0U/view>`__
-
-ALL-H3-CC (Tritium)
--------------------
-
-- `Kickstarter detail <http://bit.ly/libre-tritium>`__
-- `Tech forum <http://bit.ly/libre-tritium-loverpi-forum>`__
+  * `Kickstarter detail <http://bit.ly/libre-tritium>`__
+  * `Tech forum <http://bit.ly/libre-tritium-loverpi-forum>`__
