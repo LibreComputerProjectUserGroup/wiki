@@ -46,11 +46,11 @@ On the host computer, open a terminal and enter the following command:
 
     sudo screen /dev/ttyUSB0 115200
 
-...OR if you would like to write the output to a file in the **present working directory** (pwd) on the host computer at the point the command is run, enter:
+...OR if you would like to write the output to a file in the **present working directory** ``pwd`` on the host computer at the point the command is run, enter:
 
     sudo screen -L /dev/ttyUSB0 115200
 
-This `-L` flag creates a file called `screenlog.<N>` in your pwd.
+This ``-L`` flag creates a file called ``screenlog.<N>`` in your pwd.
 N = the index of your screen session.
 
 Moment of truth
