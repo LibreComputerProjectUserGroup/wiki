@@ -56,7 +56,7 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 Technical Documents
 ===================
 
-* :doc:`SD Cards <sdcard>`
+* :doc:`Supported Micro-SD Cards <sdcard>`
 
 How-To
 ======
