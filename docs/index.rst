@@ -62,3 +62,5 @@ How-To
 ======
 
 * :doc:`UART Setup and Communication <howto/uart>`
+
+Are we missing a how-to that you have found useful? Please submit an `issue <https://github.com/LibreComputerProjectUserGroup/wiki/issues>`_ and we'll work with you to get it implemented!
