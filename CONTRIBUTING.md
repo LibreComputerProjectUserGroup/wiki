@@ -1,3 +1,4 @@
+![lcpugw logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)
 # How to contribute
 
 I'm really glad you're reading this, because we need volunteer developers to help this wiki become much more comprehensive.
