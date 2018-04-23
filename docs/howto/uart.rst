@@ -22,19 +22,29 @@ Wiring
 
 On a "Le Potato" board, locate the 3-pin male header block **located between the USB power input and the female HDMI connector**.
 There is silk-screened tect below the header which reads **GND/TX/RX**.
-GND=Ground; TX=Transmit; RX=Receive.
+
++-----+
+| GND |
++-----+
+| TX  |
++-----+
+| RX  |
++-----+
+
+GND=Ground; TX=Transmit; RX=Receive
+
 Make sure to leave any positive voltage lead unplugged for this process, as we are already supplying power via USB.
-For this example, I have colored jumper cables as such: RED/BROWN/BLACK/WHITE
+For this example, I have colored jumper cables as such: **RED/BROWN/BLACK/WHITE**
 
-USB/TTL ADAPTER:
-BROWN: GND
-BLACK: RX
-WHITE: TX
-
-TARGET DEVICE:
-BROWN: GND
-BLACK: TX
-WHITE: RX
++-----------------+---------------+
+| USB/TTL Adapter | Target Device |
++=================+===============+
+| BROWN: GND      | BROWN: GND    |
++-----------------+---------------+
+| BLACK: RX       | BLACK: TX     |
++-----------------+---------------+
+| WHITE: TX       | WHITE: RX     |
++-----------------+---------------+
 
 Before powering the target device, plug in the USB/TTL adapter to a spare USB slot on the host computer.
 A 'USB' LED **may** illuminate, depending on what sort of adapter/cable you are using.
