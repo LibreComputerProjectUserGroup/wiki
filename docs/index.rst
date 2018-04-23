@@ -62,7 +62,7 @@ Technical Documents
 How-To
 ======
 
-* :doc:`Flashing Micro-SD Card <howto/flash-sd>`
-* :doc:`UART Setup and Communication <howto/uart>`
+* :doc:`Flash a micro-SD card <howto/flash-sd>`
+* :doc:`Setup and serial communication with UART <howto/uart>`
 
 Are we missing a how-to that you have found useful? Please submit an `issue <https://github.com/LibreComputerProjectUserGroup/wiki/issues>`_ and we'll work with you to get it implemented!
