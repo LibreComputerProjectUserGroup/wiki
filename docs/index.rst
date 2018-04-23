@@ -21,7 +21,7 @@ Technical Documents
 
 How-To
 ------
-* :doc:`UART Setup and Communication <howto/uart.rst>`
+* :doc:`UART Setup and Communication <howto/uart>`
 
 Quick Links
 ===========
