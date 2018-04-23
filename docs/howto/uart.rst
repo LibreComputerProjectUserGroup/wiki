@@ -41,10 +41,11 @@ On the host computer, open a terminal and enter the following command:
 
     sudo screen -L /dev/ttyUSB0 115200
 
-This *-L* flag creates a file called *screenlog.<N>* in your *pwd*. N = the index of your screen session.
+This `-L` flag creates a file called `screenlog.<N>` in your `pwd`. N = the index of your screen session.
 
 Now power on the target device.
 You should see some text display on the the host computer terminal.
 This method of serial communication is quite useful if, say, the target device is not successfully booting.
 Happy hacking!
+
 JC Staudt
