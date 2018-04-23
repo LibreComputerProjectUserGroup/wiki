@@ -18,19 +18,19 @@ Quick Links
 
 * **Official**
 
-  * `Libre Computer Website <https://libre.computer/>`__
+  * `Libre Computer Project website <https://libre.computer/>`__
   * `Purchase <https://libre.computer/purchase/>`__
-  * `Boot Images <http://bit.ly/libre-images>`__
-  * `GitHub Repo <https://github.com/libre-computer-project>`__
-  * `IRC Channel <https://webchat.freenode.net/?channels=librecomputer>`__
+  * `Boot images <http://bit.ly/libre-images>`__
+  * `GitHub repo <https://github.com/libre-computer-project>`__
+  * `IRC channel <https://webchat.freenode.net/?channels=librecomputer>`__
   * `Twitter <https://twitter.com/librecomputer/>`__
 
 * **Community**
 
-  * `Facebook Page <https://www.facebook.com/groups/356363581444452/>`__
+  * `Facebook user group <https://www.facebook.com/groups/356363581444452/>`__
   * `Wikipedia <https://en.wikipedia.org/wiki/Libre_Computer_Project>`__
   * `StackOverflow Q/A <http://bit.ly/stackoverflow-librecomputer>`__
-  * `LoveRPi Wiki <http://bit.ly/libre-loverpi-wiki>`__
+  * `LoveRPi wiki <http://bit.ly/libre-loverpi-wiki>`__
 
 Products
 ========
@@ -56,7 +56,7 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 Technical Documents
 ===================
 
-* :doc:`Supported Micro-SD Cards <technical/sdcard>`
+* :doc:`Supported micro-SD cards <technical/sdcard>`
 * :doc:`Troubleshooting <technical/troubleshooting>`
 
 How-To
