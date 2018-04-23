@@ -57,6 +57,7 @@ Technical Documents
 ===================
 
 * :doc:`Supported Micro-SD Cards <sdcard>`
+* :doc:`Troubleshooting <troubleshooting>`
 
 How-To
 ======
