@@ -17,11 +17,11 @@ This page is community-driven; the wiki contributors are not the official or fin
 
 Technical Documents
 -------------------
-* `SD Cards <sdcard.rst>`_
+* :doc:`SD Cards <sdcard>`
 
 How-To
 ------
-* `UART Setup and Communication <./howto/uart.rst>`__
+* :doc:`UART Setup and Communication <howto/uart.rst>`
 
 Quick Links
 ===========
