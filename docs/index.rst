@@ -63,8 +63,14 @@ Technical Documents
 How-To
 ======
 
-* :doc:`Flash a micro-SD card <howto/flash-sd>`
-* `Flash an eMMC card <https://docs.google.com/presentation/d/1gP-8njKQg6WE3p9HOU55m39NyLyq6IBa0Ukww5N15IU>`_
-* :doc:`Setup and serial communication with UART <howto/uart>`
+* **General**
+
+  * :doc:`Flash a micro-SD card <howto/flash-sd>`
+  * `Flash an eMMC card <https://docs.google.com/presentation/d/1gP-8njKQg6WE3p9HOU55m39NyLyq6IBa0Ukww5N15IU>`_
+  * :doc:`Setup and serial communication with UART <howto/uart>`
+
+* **AML-S905X-CC (Le Potato)**
+
+  * `Install ownCloud using Kubernetes, OpenEBS <http://containerized.me/arming-kubernetes-with-openebs-1>`_
 
 Are we missing a how-to that you have found useful? Please submit an `issue <https://github.com/LibreComputerProjectUserGroup/wiki/issues>`_ and we'll work with you to get it implemented!
