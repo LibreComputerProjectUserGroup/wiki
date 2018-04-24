@@ -27,6 +27,7 @@ Quick Links
 
 * **Community**
 
+  * :doc:`Boot images (external repos) <community/images>`
   * `Facebook user group <https://www.facebook.com/groups/356363581444452/>`__
   * `Wikipedia <https://en.wikipedia.org/wiki/Libre_Computer_Project>`__
   * `StackOverflow Q/A <http://bit.ly/stackoverflow-librecomputer>`__
