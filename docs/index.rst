@@ -59,6 +59,7 @@ Technical Documents
 
 * :doc:`Supported micro-SD cards <technical/sdcard>`
 * :doc:`Troubleshooting <technical/troubleshooting>`
+* `Board specifications and comparison <https://docs.google.com/spreadsheets/d/1GuB_AInWH0PTC0kyX1ulTQqlnBVnZSCKzQ-KqV7CX4s>`_
 
 How-To
 ======
