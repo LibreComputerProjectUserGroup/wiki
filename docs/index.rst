@@ -20,7 +20,7 @@ Quick Links
 
   * `Libre Computer Project website <https://libre.computer/>`__
   * `Purchase <https://libre.computer/purchase/>`__
-  * `Boot images <http://bit.ly/libre-images>`__
+  * `Boot images <http://share.loverpi.com/board/libre-computer-project/>`__
   * `GitHub repo <https://github.com/libre-computer-project>`__
   * `IRC channel <https://webchat.freenode.net/?channels=librecomputer>`__
   * `Twitter <https://twitter.com/librecomputer/>`__
@@ -30,8 +30,8 @@ Quick Links
   * :doc:`Boot images (external repos) <community/images>`
   * `Facebook user group <https://www.facebook.com/groups/356363581444452/>`__
   * `Wikipedia <https://en.wikipedia.org/wiki/Libre_Computer_Project>`__
-  * `StackOverflow Q/A <http://bit.ly/stackoverflow-librecomputer>`__
-  * `LoveRPi wiki <http://bit.ly/libre-loverpi-wiki>`__
+  * `StackOverflow Q/A <https://stackoverflow.com/questions/tagged/librecomputer>`__
+  * `LoveRPi wiki <http://wiki.loverpi.com/sbc-brand:libre-computer>`__
 
 Products
 ========
@@ -40,19 +40,19 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 
 * **ROC-RK3328-CC (Renegade)**
 
-  * `Indiegogo detail <http://bit.ly/libre-renegade>`__
-  * `Tech forum <http://bit.ly/libre-renegade-loverpi-forum>`__
+  * `Indiegogo detail <https://www.indiegogo.com/projects/renegade-arm-computer-with-usb-3-on-android-linux-computers#/>`__
+  * `Tech forum <http://forum.loverpi.com/categories/libre-computer-board-roc-rk3328-cc>`__
   
 * **AML-S905X-CC (Le Potato)**
 
-  * `Kickstarter detail <http://bit.ly/libre-lepotato>`__
-  * `Tech forum <http://bit.ly/libre-lepotato-loverpi-forum>`__
+  * `Kickstarter detail <https://www.kickstarter.com/projects/librecomputer/libre-computer-board-next-gen-4k-sbc-dev-board-for>`__
+  * `Tech forum <http://forum.loverpi.com/categories/libre-computer-board-aml-s905x-cc>`__
   * `Schematics <https://drive.google.com/file/d/0B1Rq7NcD_39QYnltdGtWWEFvS0U/view>`__
   
 * **ALL-H3-CC (Tritium)**
 
-  * `Kickstarter detail <http://bit.ly/libre-tritium>`__
-  * `Tech forum <http://bit.ly/libre-tritium-loverpi-forum>`__
+  * `Kickstarter detail <https://www.kickstarter.com/projects/librecomputer/libre-computer-board-tritium-sbc-linux-android-7-n>`__
+  * `Tech forum <http://forum.loverpi.com/categories/libre-computer-board-all-h3-cc>`__
 
 Technical Documents
 ===================
