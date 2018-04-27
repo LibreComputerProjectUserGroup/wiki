@@ -75,10 +75,9 @@ How-To
 
   * `Install ownCloud using Kubernetes, OpenEBS <http://containerized.me/arming-kubernetes-with-openebs-1>`_
 
-Are we missing a how-to that you have found useful? Please submit an `issue <https://github.com/LibreComputerProjectUserGroup/wiki/issues>`_ and we'll work with you to get it implemented!
+Are we missing a how-to that you have found useful? Please submit an `issue <https://github.com/LibreComputerProjectUserGroup/wiki/issues>`_ or `pull request <https://github.com/LibreComputerProjectUserGroup/wiki/pulls>`_ and let's get it implemented!
 
-See also
+See Also
 ========
 
-* `Wikipedia: Libre Computer Project <https://en.wikipedia.org/wiki/Libre_Computer_Project>`_
 * `Wikipedia: Comparison of single-board computers <https://en.wikipedia.org/wiki/Comparison_of_single-board_computers>`_
