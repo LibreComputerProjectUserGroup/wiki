@@ -1,6 +1,6 @@
-***********************
-Flashing Micro-SD Cards
-***********************
+************************************************
+Resize android 7.1 image paritions on a micro SD
+************************************************
 
 =====
 Linux
@@ -18,7 +18,7 @@ Materials
 Procedure
 ---------
 
-1. Open GParted GUI, you should see a parent partition containing 4 children, this is what you need to resize first
-2. Resize the parent partition as desired, note that you need to add the same amount of space to this partition that you want to make available to android
+1. Open GParted GUI. You should see a parent partition containing 4 child partitions; this is what you need to resize first
+2. Resize the parent partition as desired. Note that you need to add the same amount of space to this partition that you want to make available to Android
 3. Keeping the first child partition in place, move all three of its' siblings to the end of the parent partition
 4. Resize the first child partition (this should be labelled DATA) to the desired size
