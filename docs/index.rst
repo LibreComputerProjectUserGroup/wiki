@@ -69,6 +69,7 @@ How-To
   * :doc:`Flash a micro-SD card <howto/flash-sd>`
   * `Flash an eMMC card <https://docs.google.com/presentation/d/1gP-8njKQg6WE3p9HOU55m39NyLyq6IBa0Ukww5N15IU>`_
   * :doc:`Setup and serial communication with UART <howto/uart>`
+  * :doc:`Resize android 7.1 image paritions on a micro SD <howto/resize-sd-partitions-android-7-1>`
 
 * **AML-S905X-CC (Le Potato)**
 
