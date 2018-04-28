@@ -1,4 +1,5 @@
-![lcpugw logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)
+[<img src="https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png">]((http://lcpugwiki.readthedocs.io/en/latest/)
+
 
 Welcome
 =======
