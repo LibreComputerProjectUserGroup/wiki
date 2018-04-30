@@ -14,11 +14,15 @@ Please send a [GitHub Pull Request to LibreComputerProjectUserGroup](https://git
 Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 Please conduct an integration test before merging.
 
-Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
+Always write a clear (i.e. not vague/generic) log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
     $ git commit -m "A brief summary of the commit
     > 
     > A paragraph describing what changed and its impact."
+
+## Requesting support, or supporting others
+
+You may wish to reference [this guide at StackOverflow](https://stackoverflow.com/help/how-to-ask) to understand the best approach to request or provide support.
 
 ## Coding conventions
 
