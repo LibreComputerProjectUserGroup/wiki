@@ -14,6 +14,7 @@ Materials
   * Built-in SD/micro-SD card reader, or adapter
 
 * Micro-SD card, large enough to hold uncompressed image file (e.g. *.img)
+* `Image file<http://share.loverpi.com/board/libre-computer-project>`_
 
 Procedure
 ---------
