@@ -1,4 +1,4 @@
-<a href="http://lcpugwiki.readthedocs.io/en/latest/" rel="LCPUG wiki">![logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)]</a>
+<a href="http://lcpugwiki.readthedocs.io/en/latest/" rel="LCPUG wiki">![logo](https://cdn.rawgit.com/LibreComputerProjectUserGroup/wiki/feeec0f8/images/lcpugw3.png)</a>
 
 
 Welcome
