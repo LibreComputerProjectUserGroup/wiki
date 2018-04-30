@@ -13,5 +13,4 @@ Please visit the [Libre Computer Project User Group Wiki](http://lcpugwiki.readt
 ## Contributing
 Are we missing a how-to that you have found useful? Please [submit an issue](https://github.com/LibreComputerProjectUserGroup/wiki/issues) or [a pull request](https://github.com/LibreComputerProjectUserGroup/wiki/pulls) and let's get it implemented!
 
-### Read on how-to contribute
-[Contributing document](https://github.com/LibreComputerProjectUserGroup/wiki/blob/master/CONTRIBUTING.md)
+[How else can I contribute?](https://github.com/LibreComputerProjectUserGroup/wiki/blob/master/CONTRIBUTING.md)
