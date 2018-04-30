@@ -80,4 +80,5 @@ Are we missing a how-to that you have found useful? Please submit an `issue <htt
 See Also
 ========
 
+* `Improve your quality of support by asking meaningful questions <https://stackoverflow.com/help/how-to-ask>`_
 * `Wikipedia: Comparison of single-board computers <https://en.wikipedia.org/wiki/Comparison_of_single-board_computers>`_
