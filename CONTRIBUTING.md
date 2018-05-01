@@ -9,7 +9,7 @@ If you would like to be a contributor on this wiki, we would love to have you!
 Message one of the contributors either here or on the Facebook users group and we will add you to the project.
 
 Otherwise:
-Please send a [GitHub Pull Request to LibreComputerProjectUserGroup](https://github.com/LibreComputerProjectUserGroup/wiki/pulls) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).
+Please send a [GitHub Pull Request to LibreComputerProjectUserGroup](https://github.com/LibreComputerProjectUserGroup/wiki/pulls) with a clear list of what you've done (read more about [pull requests](https://help.github.com/articles/about-pull-requests).
 
 Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 Please conduct an integration test before merging.
