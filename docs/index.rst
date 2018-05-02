@@ -58,7 +58,7 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 Technical Documents
 ===================
 
-* :doc:`Supported micro-SD cards <technical/sdcard>`
+* :doc:`Supported microSD cards <technical/sdcard>`
 * :doc:`Troubleshooting <technical/troubleshooting>`
 * `Board specifications and comparison <https://docs.google.com/spreadsheets/d/1GuB_AInWH0PTC0kyX1ulTQqlnBVnZSCKzQ-KqV7CX4s>`_
 
@@ -67,11 +67,14 @@ How-To
 
 * **General**
 
-  * :doc:`Flash a micro-SD card <howto/flash-sd>`
+  * :doc:`Flash a microSD card <howto/flash-sd>`
   * `Flash an eMMC card <https://docs.google.com/presentation/d/1gP-8njKQg6WE3p9HOU55m39NyLyq6IBa0Ukww5N15IU>`_
   * :doc:`Setup and serial communication with UART <howto/uart>`
-  * :doc:`Resize android 7.1 image paritions on a micro SD <howto/resize-sd-partitions-android-7-1>`
-  * :doc:`Changing Lanugage - when setting does not stick <howto/change-language-from-keyboard-detected-CEC>`
+
+* **Android**
+
+  * :doc:`Resize android 7.1 image paritions on a microSD <howto/resize-sd-partitions-android-7-1>`
+  * :doc:`Changing language - when setting does not stick <howto/change-language-from-keyboard-detected-CEC>`
   * :doc:`Preventing "android.process.acore has stopped" error <howto/prevent-android-process-acore-has-stopped>`
 
 * **AML-S905X-CC (Le Potato)**
