@@ -11,9 +11,10 @@ Materials
 
 * Host computer running Linux
 
-  * Built-in SD/micro-SD card reader, or adapter
+  * Built-in SD/microSD card reader, or adapter
 
-* Micro-SD card, large enough to hold uncompressed image file (e.g. *.img)
+* MicroSD card, large enough to hold uncompressed image file (e.g. *.img)
+* `Image file to install on microSD card <http://share.loverpi.com/board/libre-computer-project>`_
 
 Procedure
 ---------
