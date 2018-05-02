@@ -41,7 +41,7 @@ As of 10 April 2018, the existing line of SBCs are as follows:
 
 * **ROC-RK3328-CC (Renegade)**
 
-  * `ROC-RK3328-CC Manual <http://roc-rk3328-cc.readthedocs.io>`_ `(provided by Firefly team <http://en.t-firefly.com)`_
+  * `Reference Manual <http://roc-rk3328-cc.readthedocs.io>`_
   * `Indiegogo detail <https://www.indiegogo.com/projects/renegade-arm-computer-with-usb-3-on-android-linux-computers#/>`__
   * `Tech forum <http://forum.loverpi.com/categories/libre-computer-board-roc-rk3328-cc>`__
   
